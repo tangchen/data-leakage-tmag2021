@@ -4,4 +4,4 @@ This repo contains the slides, code, and the toy dataset used in my talk on data
 
 There is also a blog post based on this talk: https://tangc.net/math%20and%20stats/2021/05/31/tmag2021-data-leakage.html
 
-Finally, shout out to [Dr. Q.Chelsea Song](http://www.qchelseasong.com/team-head.html) for her comments and suggestions to an earlier version of this project.
+Finally, shout out to [Dr. Q. Chelsea Song](http://www.qchelseasong.com/team-head.html) for her comments and suggestions to an earlier version of this project.
