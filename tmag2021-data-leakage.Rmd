@@ -15,7 +15,7 @@ For example, data analysts may want use images (shown below) to predict whether 
 
 ![](melanoma.jpg)
 
-When a model trained on such image data is used in real applicants (, where there will be no rulers, because diagnosis has not been done), the model will become inaccurate. Therefore, data leakage may lead to bad model performance on new data and hinder model generalizability. In this example, one solution is to crop the images and only include information about the melanoma. Similarly, there are possibilities for data leakage in organizational research. Let’s look at some examples and discuss how to avoid this issue.
+When a model trained on such image data is used in real applications (, where there will be no rulers, because diagnosis has not been done), the model will become inaccurate. Therefore, data leakage may lead to bad model performance on new data and hinder model generalizability. In this example, one solution is to crop the images and only include information about the melanoma. Similarly, there are possibilities for data leakage in organizational research. Let’s look at some examples and discuss how to avoid this issue.
 
 ## Example Dataset
 
